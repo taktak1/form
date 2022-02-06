@@ -15,3 +15,20 @@ Dies ist ein Fragebogenformular, das doppelte Antworten ablehnt, ohne den Benutz
 這是一種問卷調查表，可以拒絕重複的答案，而不會給用戶帶來諸如帳戶註冊之類的負擔。
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Structure of contents.csv
+
+question_no,type_no,description, ...
+
+
