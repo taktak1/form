@@ -20,7 +20,9 @@ Dies ist ein Fragebogenformular, das doppelte Antworten ablehnt, ohne den Benutz
 
 
 
+***
 
+***
 
 
 
@@ -34,14 +36,14 @@ question_no,type_no,description, ...
 
 
 **type_no**
-0 text only
-1 textbox textarea
-2 selectbox 
-3 selectbox(random)
-4 radio button
-5 radio button(random)
-6 check button
-7 check button(random)
+>0 text only
+>1 textbox textarea
+>2 selectbox 
+>3 selectbox(random)
+>4 radio button
+>5 radio button(random)
+>6 check button
+>7 check button(random)
 
 
 
