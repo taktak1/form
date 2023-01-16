@@ -68,8 +68,8 @@ $_SESSION["xfname"]=$xfname;
     <?php endif ?>
     </form>
 </main>
+<font size=1>powered by <a href="https://github.com/taktak1/form"> form </a></font> 
 </body>
-powered by <a href="https://github.com/taktak1/form"> form </a>
 </html>
 <script>
 <?php if(isset($achkss)):?>
