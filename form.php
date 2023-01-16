@@ -69,6 +69,7 @@ $_SESSION["xfname"]=$xfname;
     </form>
 </main>
 </body>
+powered by <a href="https://github.com/taktak1/form"> form </a>
 </html>
 <script>
 <?php if(isset($achkss)):?>
