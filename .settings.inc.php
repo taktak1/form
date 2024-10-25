@@ -11,7 +11,7 @@ const UNDIR=__DIR__."/aggregate/unfinish/"; //アンケート途中のファイ�
 const CNDIR=__DIR__."/contents.csv";        //質問内容
 const STRTP="0";                            //最初のページ
 const LASTP="9999";                         //最後ページ
-const TIMEL="1";                            //制限時間（時）
+const TIMEL="99";                            //制限時間（時）
 const ERROL=__DIR__."/error.log";           //エラーログの保存先
 //言語を設定
 mb_language('ja');
